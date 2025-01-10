@@ -127,7 +127,7 @@ const features = [
   },
   {
     name: 'Powerful Analytics',
-    description: 'Get detailed insights about your application's performance and usage.',
+    description: 'Get detailed insights about your application\'s performance and usage.',
     icon: ChartIcon,
   },
 ]
